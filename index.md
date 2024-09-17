@@ -16,7 +16,7 @@
 
 
 
- ![Code example]([codescreenshot.png](https://github.com/bezoc/skills-communicate-using-markdown/blob/main/codescreenshot.png))
+ ![Code example](https://github.com/bezoc/skills-communicate-using-markdown/blob/main/codescreenshot.png)
 
    
 How it looks:
