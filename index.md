@@ -29,7 +29,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 - To create a list use " - [ ] "
 
-For example:
+Here's an example:
 
 ![List example](https://github.com/bezoc/skills-communicate-using-markdown/blob/main/listscreenshot.png)
 
