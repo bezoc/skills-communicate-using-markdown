@@ -16,7 +16,7 @@
 
 
 
- ![Code example]([codescreenshot.png](https://github.com/bezoc/skills-communicate-using-markdown/blob/main/codescreenshot.png))
+ ![Code example](https://github.com/bezoc/skills-communicate-using-markdown/blob/main/codescreenshot.png)
 
    
 How it looks:
@@ -25,3 +25,17 @@ How it looks:
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+
+- To create a list use " - [ ] "
+
+Here's an example:
+
+![List example](https://github.com/bezoc/skills-communicate-using-markdown/blob/main/listscreenshot.png)
+
+
+How it looks:
+
+- [x] Review HTML elements
+- [ ] Finish HTML Practice Project
+- [x] Create README.md for my repository on Github  
