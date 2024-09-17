@@ -1,11 +1,11 @@
 # Markdown
 
-# - To add a h1 header use " # "
-## - For h2 header use " # # "
-### - For h3 header use " # # #"
-#### - For h4 header use "# # # #"
-##### - For h5 header use "# # # # #"
-###### - For h6 header use "# # # # # #"
+- #  To add a h1 header use " # "
+- ##  For h2 header use " # # "
+- ###  For h3 header use " # # #"
+- ####  For h4 header use "# # # #"
+- #####  For h5 header use "# # # # #"
+- ######  For h6 header use "# # # # # #"
 
 
 - To add an image use the syntax "! "["  example  "]" (URL)" - The text inside square brackets (w/o quotes) is used to describe the image. It also works for screen readers.
